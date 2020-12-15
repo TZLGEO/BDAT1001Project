@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\glory\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\glory\\.nuget\\packages"
+    ]
+  }
+}
